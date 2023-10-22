@@ -1,4 +1,4 @@
-# Read me
+# Discord Auth Bot
 
 What is this?:
 ```
